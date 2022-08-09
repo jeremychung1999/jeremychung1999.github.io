@@ -1,1 +1,2 @@
-# jeremychung1999.github.io
+# Zero to Mastery Coding Challenge 8 Submission
+# Create a landing page for a startup
