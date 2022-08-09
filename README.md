@@ -1,2 +1,2 @@
 # Zero to Mastery Coding Challenge 8 Submission
-# Create a landing page for a startup
+Create a landing page for a startup
